@@ -1,7 +1,7 @@
 # Ten_Commandments_Nes
 The Ten Commandments on your Nes
 
-The Bottom line of text will not display on the screen when loading the code as it barely fits the NES Screen in Emulators. 
+The Bottom line of text will not display on the screen when loading the code as it barely fits the NES Screen. 
 
 I have not tested this on a real console.  
 
